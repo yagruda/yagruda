@@ -1,12 +1,13 @@
 Backend-focused engineer with strong foundation in systems programming, algorithmic thinking, and practical software engineering. I create dependable, maintainable, well-organized systems that scale consistently and function properly under challenging circumstances.
 
 **Technical Profile**  
-C, C++, Python, JS, SQL · HTML, CSS, SASS, GULP 
-Systems programming on Linux: processes, signals, file descriptors, I/O
-Clean architecture and modular design
-Focused on Algorithmic efficiency
-Experience with Git-based workflows and systematic code reviews
-Understanding of distributed backend patterns and service reliability
+C, C++, Python, JS, SQL  
+HTML, CSS, SASS, GULP  
+Systems programming on Linux: processes, signals, file descriptors, I/O  
+Clean architecture and modular design  
+Focused on Algorithmic efficiency  
+Experience with Git-based workflows and systematic code reviews  
+Understanding of distributed backend patterns and service reliability  
 
 ---
 
