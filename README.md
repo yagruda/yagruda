@@ -1,7 +1,12 @@
 Backend-focused engineer with strong foundation in systems programming, algorithmic thinking, and practical software engineering. I create dependable, maintainable, well-organized systems that scale consistently and function properly under challenging circumstances.
 
 **Technical Profile**  
-C, C++, Python, JS, SQL · HTML, CSS, SASS, GULP · Systems programming on Linux: processes, signals, file descriptors, I/O · Clean architecture and modular design · Focused on Algorithmic efficiency · Experience with Git-based workflows and systematic code reviews · Understanding of distributed backend patterns and service reliability
+C, C++, Python, JS, SQL · HTML, CSS, SASS, GULP 
+Systems programming on Linux: processes, signals, file descriptors, I/O
+Clean architecture and modular design
+Focused on Algorithmic efficiency
+Experience with Git-based workflows and systematic code reviews
+Understanding of distributed backend patterns and service reliability
 
 ---
 
@@ -19,12 +24,12 @@ Foundational library replicating key standard functions with attention to edge c
 ---
 
 ### Engineering Mindset  
-Think in invariants and edge cases · Measure before optimizing · Prefer simplicity over cleverness · Write code that is auditable and predictable under stress · Treat correctness as a baseline expectation, not a goal
+Think in invariants and edge cases · Measure before optimizing · Prefer simplicity over cleverness · Write code that is auditable and predictable under stress
 
 ---
 
 ### Current Growth Areas  
-Distributed systems and consistency models · Concurrency and synchronization primitives · Networked services and protocol-level understanding · Profiling and latency reduction strategies · Cloud-native service patterns
+Distributed systems and consistency models · Concurrency and synchronization primitives
 
 <!--
 **yagruda/yagruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
