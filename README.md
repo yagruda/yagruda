@@ -6,8 +6,6 @@ HTML, CSS, SASS, GULP
 Systems programming on Linux: processes, signals, file descriptors, I/O  
 Clean architecture and modular design  
 Focused on Algorithmic efficiency  
-Experience with Git-based workflows and systematic code reviews  
-Understanding of distributed backend patterns and service reliability  
 
 ---
 
