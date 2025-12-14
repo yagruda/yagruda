@@ -27,9 +27,6 @@ Think in invariants and edge cases · Measure before optimizing · Prefer simpli
 
 ---
 
-### Current Growth Areas  
-Distributed systems and consistency models · Concurrency and synchronization primitives
-
 <!--
 **yagruda/yagruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
