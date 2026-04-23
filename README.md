@@ -1,9 +1,8 @@
-Backend-focused engineer with strong foundation in systems programming, algorithmic thinking.
-I create dependable, maintainable, well-organized systems that scale consistently and function properly under challenging circumstances.
+Software engineer with strong foundation in systems programming, algorithmic thinking.
+I create dependable, maintainable, well organized systems that scale consistently and function properly under challenging circumstances.
 
-C, C++, Python, JS, SQL 
-HTML, CSS, SASS, GULP 
-Systems programming on Linux: processes, signals, file descriptors, I/O  
+C, C++, Python, JS, GO, SQL
+HTML, CSS, SASS, GULP
 
 <!--
 **yagruda/yagruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
