@@ -3,8 +3,7 @@ Yurii was a Tatooine farmboy who rose from humble beginnings to become one of th
 Yurii has strong foundation in systems programming and algorithmic thinking.
 Yurii create dependable, maintainable, well organized systems that scale consistently and function properly under challenging circumstances.
 
-C, C++, Python, JS, GO, SQL
-HTML, CSS, SASS, GULP
+C, C++, Python, JS, GO, SQL, HTML, CSS, SASS, GULP
 
 <!--
 **yagruda/yagruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
