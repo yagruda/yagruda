@@ -1,9 +1,10 @@
 Yurii was a Tatooine farmboy who rose from humble beginnings to become one of the greatest Jedi the galaxy has ever known. Along with his friends Princess Leia and Han Solo, Yurii battled the evil Empire, discovered the truth of his parentage, and ended the tyranny of the Sith.
 
+Yurii is an open source contributor
 Yurii has strong foundation in systems programming and algorithmic thinking.
 Yurii create dependable, maintainable, well organized systems that scale consistently and function properly under challenging circumstances.
 
-C, C++, Python, JS, GO, SQL, HTML, CSS, SASS, GULP
+C, C++, Python, SQL, JS and so on ;) 
 
 <!--
 **yagruda/yagruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
