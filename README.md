@@ -4,7 +4,7 @@ Yurii is an open source contributor
 Yurii has strong foundation in systems programming and algorithmic thinking.
 Yurii create dependable, maintainable, well organized systems that scale consistently and function properly under challenging circumstances.
 
-C, C++, Python, SQL, JS and so on ;) 
+C, C++, Python, SQL, JS, Docker, UNIX, Bash, Networks and so on ;) 
 
 <!--
 **yagruda/yagruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
